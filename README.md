@@ -17,3 +17,10 @@ Este é um código em Python que simula um sistema de login simples para um site
 5. Se os dados inseridos estiverem corretos, o sistema irá exibir uma mensagem de login bem-sucedido, caso contrário, será informado que os dados estão incorretos. ⚠️
 
 ## Exemplo de Execução 💻
+
+MERCADO LIVRE
+Digite o nome de usuário: admin
+Digite a senha: 1234
+Carregando... ⏳
+Login bem-sucedido! 🎉
+Bem-vindo ao Mercado Livre admin! 🛍️
